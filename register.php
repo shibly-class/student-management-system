@@ -45,4 +45,6 @@ if ($email_check_result->num_rows > 0) {
 
 $email_check_stmt->close();
 $conn->close();
+
+header("Location: students.php");
 ?>

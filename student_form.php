@@ -55,7 +55,7 @@
         }
 
         .content {
-            margin-top: 60px;
+            margin-top: 20px;
             display: flex;
             justify-content: center;
             align-items: center;

@@ -30,6 +30,6 @@ if ($stmt->execute()) {
 $stmt->close();
 $conn->close();
 
-header("Location: students.php");
+header("Location: history.php");
 exit();
 ?>
